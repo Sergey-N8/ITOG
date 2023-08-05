@@ -1,0 +1,9 @@
+Миша получил robot
+Паша получил constructor
+Маша получил robot
+Оля получил robot
+Игорь получил robot
+5 получил constructor
+6 получил constructor
+7 получил doll
+8 получил robot
